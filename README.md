@@ -1,2 +1,2 @@
-# pandas_tips
+# Pandas Tips
 Tips for Pandas Library
