@@ -1,3 +1,3 @@
-# Pandas Tips
+# Data Science Examples
 
-Tips for Pandas Library
+List of Data Science projects, some used to learn about some topic, some used on blog posts
